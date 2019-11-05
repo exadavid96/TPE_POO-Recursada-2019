@@ -1,0 +1,4 @@
+Algunas cuestiones:
+
+*Este programa se realizó en Java 7.0 , y se hace uso de una clase deprecada Date, que en Java 8.0 ya es obsoleta, cambiar a LocalDate para su funcionamiento.
+*Observar la salida de la TransformaciónSizePage , por alguna razón, tal método también modifica la página original( no debería hacerlo ). Es la única que presenta ese problema.
